@@ -5,4 +5,4 @@ function n(){nums=document.getElementById("nums_1").innerHTML,1==nums&&(document
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/garland.js");
 },{"./sass/main.scss":"clu1","./js/garland.js":"PR6Z"}]},{},["Focm"], null)
-//# sourceMappingURL=/garland/src.a27bd3d6.js.map
+//# sourceMappingURL=/garland/src.6efa42d9.js.map
